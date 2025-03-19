@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TOM-TITO-coder
+- 👋 Hi, I’m TITO TOM
 - 👀 I’m interested in AI and Data Science
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
